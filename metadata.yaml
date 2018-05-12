@@ -1,0 +1,28 @@
+_repo: A-India-PortuguezaConferencia-feita-em-16-de-mar-o-de-1908_31166
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brion, Hypacio de
+    alias: De Brion, Hypacio
+    gutenberg_agent_id: '35033'
+    url: http://www.gutenberg.org/2009/agents/35033
+description: ''
+gutenberg_issued: '2010-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31166'
+  lccn: 08031279
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese -- India'
+- !lcc 'DS'
+title: 'A India Portugueza
+
+  Conferencia feita em 16 de março de 1908'
+url: http://www.gutenberg.org/ebooks/31166
