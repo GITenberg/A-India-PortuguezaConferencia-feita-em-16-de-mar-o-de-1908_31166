@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35033'
     url: http://www.gutenberg.org/2009/agents/35033
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31166#A-India-PortuguezaConferencia-feita-em-16-de-mar-o-de-1908
 gutenberg_issued: '2010-02-03'
 gutenberg_type: Text
 identifiers:
